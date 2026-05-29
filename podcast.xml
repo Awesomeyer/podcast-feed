@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Developer Vault Podcast Queue</title>
+    <link>https://raw.githubusercontent.com/Awesomeyer/podcast-feed/main/podcast.xml</link>
+    <atom:link href="https://raw.githubusercontent.com/Awesomeyer/podcast-feed/main/podcast.xml" rel="self" type="application/rss+xml" />
+    <description>Private queue of vault-curated podcast episodes for agentic engineering, tool stacks, and practitioner workflow signal.</description>
+    <language>en-us</language>
+    <itunes:author>Developer Vault</itunes:author>
+    <itunes:block>Yes</itunes:block>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Fri, 29 May 2026 22:29:48 +0000</lastBuildDate>
+    <item>
+      <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
+      <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
+Source: https://podwise.ai/dashboard/episodes/7561847</description>
+      <pubDate>Fri, 20 Mar 2026 13:41:00 +0000</pubDate>
+      <guid isPermaLink="false">e12140a6-245e-11f1-83d8-d393763beb3b</guid>
+      <enclosure url="https://traffic.megaphone.fm/PDP8703207384.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>2. Latent Space: Why Anthropic Thinks AI Should Have Its Own Computer - Felix Rieseberg of Claude Cowork &amp; Claude Code Desktop</title>
+      <description>Curated episode on Claude Cowork, Claude Code Desktop, skills, and desktop agents.
+Source: https://podcasts.apple.com/us/podcast/why-anthropic-thinks-ai-should-have-its-own-computer/id1674008350?i=1000755841623</description>
+      <pubDate>Tue, 17 Mar 2026 21:39:16 +0000</pubDate>
+      <guid isPermaLink="false">substack:post:191097767</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/191097767/72a8d1a77282f7fee0214a7442ccfd40.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>3. Unsupervised Learning with Jacob Effron: Ep 85: Has AI Infra Stabilized, FM Vibe Shift, &amp; What&#x27;s Next for Coding Agents</title>
+      <description>Curated episode on AI infrastructure, model-provider shifts, and coding agents.
+Source: https://pocketcasts.com/podcast/unsupervised-learning-with-jacob-effron/6f3babc0-91a4-013b-f31a-0acc26574db2/ep-85-has-ai-infra-stabilized-fm-vibe-shift-whats-next-for-coding-agents/600be088-6a60-4800-b9f2-3d1c67e65148</description>
+      <pubDate>Thu, 23 Apr 2026 13:00:24 +0000</pubDate>
+      <guid isPermaLink="false">fa9dc0ee-7aa8-422f-9414-daa79fa0cb10</guid>
+      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/b3414ac6-61c8-4752-8722-491e1457c3bf/2c08ad29-5b79-42c0-a40a-6c1af4327f2f/episodes/audio/group/e003e405-cd36-4aa4-8163-ed60d9bedfb7/group-item/c022af70-bcd6-4f6a-b999-a31e2e2a868b/128_default_tc.mp3?aid=rss_feed&amp;feed=dOSE_bdP" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>4. The Joe Reis Show: Wes McKinney on AI Agents, The Mythical Agent Month, and His Wild AI Coding Setup</title>
+      <description>Curated episode on AI agents, agent-month framing, and a strong practitioner&#x27;s coding setup.
+Source: https://wesmckinney.com/transcripts/2026-04-08-joe-reis-ai-agents-mythical-agent-month.html</description>
+      <pubDate>Wed, 08 Apr 2026 11:01:04 +0000</pubDate>
+      <guid isPermaLink="false">dd55a297-1772-4893-9939-b5bf384fe465</guid>
+      <enclosure url="https://anchor.fm/s/4aba058c/podcast/play/117620562/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-29%2F420960164-44100-2-55ef87149653c.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>5. Lenny&#x27;s Podcast: Head of Claude Code: What happens after coding is solved | Boris Cherny</title>
+      <description>Curated episode on Claude Code and how coding-agent workflows may change software work.
+Source: https://api.substack.com/feed/podcast/10845.rss</description>
+      <pubDate>Thu, 19 Feb 2026 13:31:57 +0000</pubDate>
+      <guid isPermaLink="false">substack:post:188147394</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/188147394/4c0ec1642faad3be82879b1b9c53bae8.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>6. Latent Space: Notion’s Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last &amp; Sarah Sachs of Notion</title>
+      <description>Curated episode on Notion agents, evals, tool exposure, permissions, and software-factory workflow design.
+Source: https://pocketcasts.com/podcast/latent-space-the-ai-engineer-podcast/76358c70-95ec-013b-f332-0acc26574db2/notions-token-town-5-rebuilds-100-tools-mcp-vs-clis-and-the-software-factory-future-simon-last-sarah-sachs-of-notion/6172bbee-0518-4eb5-9b78-ad73a6176505</description>
+      <pubDate>Wed, 20 May 2026 20:17:32 -0400</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260520-substack-post-194195821</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/194195821/10f31b379fbf657fd80757e3b4244e4f.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>4637</itunes:duration>
+    </item>
+    <item>
+      <title>7. AI &amp; I: Claude Code Can Be Your Second Brain</title>
+      <description>Curated episode on Claude Code, Obsidian, local Markdown notes, and AI as a second-brain thinking partner.
+Source: https://tldl-pod.com/episode/1719789201_rss_fc74edb321</description>
+      <pubDate>Thu, 21 May 2026 00:23:47 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260521-dee0241c-2513-4611-806b-ce8a4f9a7d3a</guid>
+      <enclosure url="https://pscrb.fm/rss/p/media.transistor.fm/29d14672/426847fd.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>4202</itunes:duration>
+    </item>
+    <item>
+      <title>8. Latent Space: The Age of Async Agents — Cognition&#x27;s Walden Yan &amp; OpenInspect&#x27;s Cole Murray</title>
+      <description>Curated episode on async coding agents, agent evaluation and inspection, and the shift to long-running agent workflows.
+Source: https://www.latent.space/p/cognition</description>
+      <pubDate>Thu, 28 May 2026 22:32:06 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260528-substack-post-199607874</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/199607874/583bc5ffc268ed91c9847c65cd631492.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>4082</itunes:duration>
+    </item>
+  </channel>
+</rss>
