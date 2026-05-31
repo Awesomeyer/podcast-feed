@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 29 May 2026 22:29:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 16:29:32 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -78,6 +78,15 @@ Source: https://www.latent.space/p/cognition</description>
       <guid isPermaLink="false">developer-vault-queue-20260528-substack-post-199607874</guid>
       <enclosure url="https://api.substack.com/feed/podcast/199607874/583bc5ffc268ed91c9847c65cd631492.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>4082</itunes:duration>
+    </item>
+    <item>
+      <title>9. Latent Space: Railway: The Agent-Native Cloud — Jake Cooper</title>
+      <description>Curated episode on agent-native cloud infrastructure, deployment surfaces, and AI engineering workflow design.
+Source: https://www.latent.space/p/railway</description>
+      <pubDate>Sun, 31 May 2026 16:29:32 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260531-substack-post-198575235</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/198575235/fbd2be59f0c8aad59a022f3709b9b930.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>5314</itunes:duration>
     </item>
   </channel>
 </rss>
