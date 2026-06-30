@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 30 Jun 2026 21:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:32:10 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -96,6 +96,15 @@ Source: https://share.transistor.fm/s/e8ee50d5</description>
       <guid isPermaLink="false">developer-vault-queue-20260531-9f5c1555-302b-453d-80ce-5591d88512bf</guid>
       <enclosure url="https://pscrb.fm/rss/p/media.transistor.fm/e8ee50d5/3a9eaf00.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>3086</itunes:duration>
+    </item>
+    <item>
+      <title>11. The Programming Podcast: Stop Vibe Coding, Start Architecting! Our AI Workflows</title>
+      <description>Curated wider-net episode for practitioner workflow, tooling, and agentic engineering signal.
+Source: https://podcasts.apple.com/us/podcast/stop-vibe-coding-start-architecting-our-ai-workflows/id1778885184?i=1000773916896&amp;uo=4</description>
+      <pubDate>Tue, 30 Jun 2026 21:32:09 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260630-919954a6-e9a0-4b45-af4c-c40efd8c305a</guid>
+      <enclosure url="https://traffic.megaphone.fm/APO3319984325.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>00:57:30</itunes:duration>
     </item>
   </channel>
 </rss>
