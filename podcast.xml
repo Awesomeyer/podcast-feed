@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 31 May 2026 16:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 19:16:05 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -96,6 +96,15 @@ Source: https://share.transistor.fm/s/e8ee50d5</description>
       <guid isPermaLink="false">developer-vault-queue-20260531-9f5c1555-302b-453d-80ce-5591d88512bf</guid>
       <enclosure url="https://pscrb.fm/rss/p/media.transistor.fm/e8ee50d5/3a9eaf00.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>3086</itunes:duration>
+    </item>
+    <item>
+      <title>11. Latent Space: Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks</title>
+      <description>Curated episode from Latent Space for AI engineering, agents, infrastructure, and practitioner workflow signal.
+Source: https://www.latent.space/p/databricks</description>
+      <pubDate>Tue, 30 Jun 2026 19:16:04 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260630-substack-post-203293676</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/203293676/dd012c693ce8a0df476abdb30707f110.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>4132</itunes:duration>
     </item>
   </channel>
 </rss>
