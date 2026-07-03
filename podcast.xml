@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 30 Jun 2026 21:32:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 12:32:32 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -105,6 +105,24 @@ Source: https://podcasts.apple.com/us/podcast/stop-vibe-coding-start-architectin
       <guid isPermaLink="false">developer-vault-queue-20260630-919954a6-e9a0-4b45-af4c-c40efd8c305a</guid>
       <enclosure url="https://traffic.megaphone.fm/APO3319984325.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>00:57:30</itunes:duration>
+    </item>
+    <item>
+      <title>12. Latent Space: 🔬 The Coolest Diffusion Research Isn&#x27;t in LLMs — Evan Feinberg &amp; Sergey Edunov, Genesis Molecular AI</title>
+      <description>Curated episode from Latent Space for AI engineering, agents, infrastructure, and practitioner workflow signal.
+Source: https://www.latent.space/p/the-coolest-diffusion-research-isnt</description>
+      <pubDate>Fri, 03 Jul 2026 12:32:27 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260703-substack-post-204393300</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/204393300/b666b202e46ea3ef2184bcc5371e5faa.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>6519</itunes:duration>
+    </item>
+    <item>
+      <title>13. Making AI Possible: Building with Agents and Owning the Output: Coding Agents, Product Ownership, and the Modern AI/ML Engineering Workflow</title>
+      <description>Curated wider-net episode for practitioner workflow, tooling, and agentic engineering signal.
+Source: https://podcasts.apple.com/us/podcast/building-with-agents-and-owning-the-output/id1813215906?i=1000772726583&amp;uo=4</description>
+      <pubDate>Fri, 03 Jul 2026 12:32:32 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260703-154ee1b0-6f8e-412d-bfc8-5c35b795be0f</guid>
+      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/9aa26d96-88d6-47bb-9c86-807fffc0d43f/ec2ad780-76f2-4142-b069-0a751aa6e2d1/episodes/audio/group/c72afcc3-bf8d-4d17-a9b7-eebedab83685/group-item/4a379591-88bc-4cb8-8513-290ab8417d37/128_default_tc.mp3?aid=rss_feed&amp;feed=4DVX5_DE" length="0" type="audio/mpeg" />
+      <itunes:duration>01:02:44</itunes:duration>
     </item>
   </channel>
 </rss>
