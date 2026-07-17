@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 09 Jul 2026 15:54:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 12:31:44 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -105,6 +105,24 @@ Source: https://www.latent.space/p/modal2026</description>
       <guid isPermaLink="false">developer-vault-queue-20260709-substack-post-205716015</guid>
       <enclosure url="https://api.substack.com/feed/podcast/205716015/3060ccd83d88111aef06dc1ba0e2b411.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>3475</itunes:duration>
+    </item>
+    <item>
+      <title>12. Latent Space: 🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam &amp; Rafa Gómez-Bombarelli, Lila Sciences</title>
+      <description>Curated episode from Latent Space for AI engineering, agents, infrastructure, and practitioner workflow signal.
+Source: https://www.latent.space/p/the-lab-of-the-future-should-feel</description>
+      <pubDate>Fri, 17 Jul 2026 12:31:38 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260717-substack-post-207109360</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/207109360/bfeb234f52e25f505c732000262964af.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>6064</itunes:duration>
+    </item>
+    <item>
+      <title>13. Dynamics Corner: Episode 522: What Was Your Eureka Moment with AI? Smarter Workflows for BC Development</title>
+      <description>Curated wider-net episode for practitioner workflow, tooling, and agentic engineering signal.
+Source: https://podcasts.apple.com/us/podcast/episode-522-what-was-your-eureka-moment-with-ai/id1631935578?i=1000776778099&amp;uo=4</description>
+      <pubDate>Fri, 17 Jul 2026 12:31:44 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260717-buzzsprout-19488146</guid>
+      <enclosure url="https://www.buzzsprout.com/1995627/episodes/19488146-episode-522-what-was-your-eureka-moment-with-ai-smarter-workflows-for-bc-development.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>3566</itunes:duration>
     </item>
   </channel>
 </rss>
