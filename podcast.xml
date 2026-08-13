@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 13 Aug 2026 01:22:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 12:31:35 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -159,6 +159,15 @@ Source: https://fragmentedpodcast.com/episodes/307</description>
       <guid isPermaLink="false">developer-vault-queue-20260813-08fbaf55-c3c4-4f99-9faa-0f92a4dce103</guid>
       <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/eea5748e-09ed-4c46-8f6a-b2569dd75851/20f35050-e836-44cd-8f7f-fd13e8cb2e44/episodes/audio/group/face4e8b-6fb2-4f91-ab8e-8ad35b829715/group-item/0ce6c86f-d6ef-4ee1-8fa7-9ac6958feed6/128_default_tc.mp3?aid=rss_feed&amp;feed=LpAGSLnY" length="0" type="audio/mpeg" />
       <itunes:duration>00:29:55</itunes:duration>
+    </item>
+    <item>
+      <title>18. Latent Space: The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten</title>
+      <description>Curated episode from Latent Space for AI engineering, agents, infrastructure, and practitioner workflow signal.
+Source: https://www.latent.space/p/inference-eng</description>
+      <pubDate>Thu, 13 Aug 2026 12:31:32 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260813-substack-post-209198968</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/209198968/9812df16b361bc5838e1961cf85b91ac.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>6089</itunes:duration>
     </item>
   </channel>
 </rss>
