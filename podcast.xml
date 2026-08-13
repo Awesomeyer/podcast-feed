@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 13 Aug 2026 12:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 12:52:53 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -143,16 +143,7 @@ Source: https://bvc.fm/2026/07/09/005.html</description>
       <itunes:duration>01:03:33</itunes:duration>
     </item>
     <item>
-      <title>16. Fragmented: 310 - Mitchell Hashimoto on Ghostty &amp; His Agentic Coding Workflow</title>
-      <description>Curated episode on Mitchell Hashimoto&#x27;s developer-tooling practice and agentic coding workflow.
-Source: https://fragmentedpodcast.com/episodes/310</description>
-      <pubDate>Thu, 13 Aug 2026 01:22:19 +0000</pubDate>
-      <guid isPermaLink="false">developer-vault-queue-20260813-fd5bbe99-bbc2-40d2-8805-600675257770</guid>
-      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/eea5748e-09ed-4c46-8f6a-b2569dd75851/20f35050-e836-44cd-8f7f-fd13e8cb2e44/episodes/audio/group/6f82d4c8-5016-4a21-bdf8-e498723f7869/group-item/208da4dc-28b2-46e5-b617-d4fda6a5cab1/128_default_tc.mp3?aid=rss_feed&amp;feed=LpAGSLnY" length="0" type="audio/mpeg" />
-      <itunes:duration>00:59:43</itunes:duration>
-    </item>
-    <item>
-      <title>17. Fragmented: 307 - Harness Engineering - the hard part of AI coding</title>
+      <title>16. Fragmented: 307 - Harness Engineering - the hard part of AI coding</title>
       <description>Curated episode on harness engineering and the feedback systems required for reliable AI-assisted coding.
 Source: https://fragmentedpodcast.com/episodes/307</description>
       <pubDate>Thu, 13 Aug 2026 01:22:21 +0000</pubDate>
@@ -161,7 +152,7 @@ Source: https://fragmentedpodcast.com/episodes/307</description>
       <itunes:duration>00:29:55</itunes:duration>
     </item>
     <item>
-      <title>18. Latent Space: The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten</title>
+      <title>17. Latent Space: The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten</title>
       <description>Curated episode from Latent Space for AI engineering, agents, infrastructure, and practitioner workflow signal.
 Source: https://www.latent.space/p/inference-eng</description>
       <pubDate>Thu, 13 Aug 2026 12:31:32 +0000</pubDate>
