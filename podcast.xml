@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 17 Jul 2026 12:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 01:22:37 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -123,6 +123,42 @@ Source: https://podcasts.apple.com/us/podcast/episode-522-what-was-your-eureka-m
       <guid isPermaLink="false">developer-vault-queue-20260717-buzzsprout-19488146</guid>
       <enclosure url="https://www.buzzsprout.com/1995627/episodes/19488146-episode-522-what-was-your-eureka-moment-with-ai-smarter-workflows-for-bc-development.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>3566</itunes:duration>
+    </item>
+    <item>
+      <title>14. Beyond Vibe Coding: #S2.07 Agentic Engineering Is Bringing XP Back - Ben Hoskins (NewStore)</title>
+      <description>Curated episode on agentic engineering grounded in XP, testing, architecture, and disciplined development workflows.
+Source: https://bvc.fm/2026/07/23/007.html</description>
+      <pubDate>Thu, 13 Aug 2026 01:21:46 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260813-aa8539b3-7c9b-4b7c-b2a9-f19db8e8d4ce</guid>
+      <enclosure url="https://api.riverside.com/hosting-analytics/media/0b834ef6172ae1320dd46b8f07253546cb18f24d5b3f010d1ffc76473757af0e/eyJlcGlzb2RlSWQiOiJhYTg1MzliMy03YzliLTRiN2MtYjJhOS1mMTlkYjhlOGQ0Y2UiLCJwb2RjYXN0SWQiOiIwNWU2YWFhMC0wZTRiLTRjMTktOWRlMS0zNTI5NTQ5OTA0ZWUiLCJhY2NvdW50SWQiOiI2OTZhYThiNWNjZDI2MTRlYzk3MDQ2ZTciLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE1ZjEzZTgzNGVlOGFmODkwMDc1OWQzL2FuZHItbmV1YmF1ZXJzLXN0dWRpby1jb21wb3Nlci0yMDI2LTctMjFfXzgtMzgtMzIubXAzIn0=.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>00:49:57</itunes:duration>
+    </item>
+    <item>
+      <title>15. Beyond Vibe Coding: #S2.05 Inside Parloa&#x27;s AI Kitchen: How the Company Building Agents Builds with Agents - Italo Vietro</title>
+      <description>Curated episode on how an engineering organization uses shared agent skills, harnesses, and workflows in production.
+Source: https://bvc.fm/2026/07/09/005.html</description>
+      <pubDate>Thu, 13 Aug 2026 01:21:49 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260813-51cc33ec-a43c-403b-9d90-2bc905a458bf</guid>
+      <enclosure url="https://api.riverside.com/hosting-analytics/media/848a9ce78e8f030f23f6b980da4c9518695b6a487ae40a7681927dc34f03b13d/eyJlcGlzb2RlSWQiOiI1MWNjMzNlYy1hNDNjLTQwM2ItOWQ5MC0yYmM5MDVhNDU4YmYiLCJwb2RjYXN0SWQiOiIwNWU2YWFhMC0wZTRiLTRjMTktOWRlMS0zNTI5NTQ5OTA0ZWUiLCJhY2NvdW50SWQiOiI2OTZhYThiNWNjZDI2MTRlYzk3MDQ2ZTciLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE0ZmNhNjgwNWM1NzJiZGQyNjJjZGM3L2FuZHItbmV1YmF1ZXJzLXN0dWRpby1jb21wb3Nlci0yMDI2LTctOV9fMTgtMjAtNTYubXAzIn0=.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>01:03:33</itunes:duration>
+    </item>
+    <item>
+      <title>16. Fragmented: 310 - Mitchell Hashimoto on Ghostty &amp; His Agentic Coding Workflow</title>
+      <description>Curated episode on Mitchell Hashimoto&#x27;s developer-tooling practice and agentic coding workflow.
+Source: https://fragmentedpodcast.com/episodes/310</description>
+      <pubDate>Thu, 13 Aug 2026 01:22:19 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260813-fd5bbe99-bbc2-40d2-8805-600675257770</guid>
+      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/eea5748e-09ed-4c46-8f6a-b2569dd75851/20f35050-e836-44cd-8f7f-fd13e8cb2e44/episodes/audio/group/6f82d4c8-5016-4a21-bdf8-e498723f7869/group-item/208da4dc-28b2-46e5-b617-d4fda6a5cab1/128_default_tc.mp3?aid=rss_feed&amp;feed=LpAGSLnY" length="0" type="audio/mpeg" />
+      <itunes:duration>00:59:43</itunes:duration>
+    </item>
+    <item>
+      <title>17. Fragmented: 307 - Harness Engineering - the hard part of AI coding</title>
+      <description>Curated episode on harness engineering and the feedback systems required for reliable AI-assisted coding.
+Source: https://fragmentedpodcast.com/episodes/307</description>
+      <pubDate>Thu, 13 Aug 2026 01:22:21 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260813-08fbaf55-c3c4-4f99-9faa-0f92a4dce103</guid>
+      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/eea5748e-09ed-4c46-8f6a-b2569dd75851/20f35050-e836-44cd-8f7f-fd13e8cb2e44/episodes/audio/group/face4e8b-6fb2-4f91-ab8e-8ad35b829715/group-item/0ce6c86f-d6ef-4ee1-8fa7-9ac6958feed6/128_default_tc.mp3?aid=rss_feed&amp;feed=LpAGSLnY" length="0" type="audio/mpeg" />
+      <itunes:duration>00:29:55</itunes:duration>
     </item>
   </channel>
 </rss>
