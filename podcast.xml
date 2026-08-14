@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 14 Aug 2026 12:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:38:39 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -168,6 +168,33 @@ Source: https://podcasts.apple.com/us/podcast/developing-efficient-ai-workflows/
       <guid isPermaLink="false">developer-vault-queue-20260814-https-packetpushers-net-post-type-podcast-p-76080</guid>
       <enclosure url="https://feeds.packetpushers.net/link/20975/17416439/D2DO310.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>42:18</itunes:duration>
+    </item>
+    <item>
+      <title>19. Latent Space: Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI</title>
+      <description>An interview with OpenAI product leader Akshay Nathan about Codex, ChatGPT Work, agentic interfaces, and expanding software creation beyond professional programmers.
+Source: https://www.latent.space/p/chatgpt-work</description>
+      <pubDate>Fri, 14 Aug 2026 18:38:13 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260814-substack-post-208716574</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/208716574/1644ff34767eacc3e04d93b5c8621905.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>4168</itunes:duration>
+    </item>
+    <item>
+      <title>20. Lenny&#x27;s Podcast: Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)</title>
+      <description>Netflix CPTO Elizabeth Stone discusses systems thinking, specialization, product and engineering leadership, and how AI is changing the shape of technical work.
+Source: https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future</description>
+      <pubDate>Fri, 14 Aug 2026 18:38:25 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260814-substack-post-205675851</guid>
+      <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/205675851/497b10441135a842dbe35a6891de72bb.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>4327</itunes:duration>
+    </item>
+    <item>
+      <title>21. AI &amp; I: How Every&#x27;s Team Used AI to Ship Its Biggest Launch Ever</title>
+      <description>A practical account of how Every used Codex and an AI-assisted team workflow to turn a campaign idea into a major product launch.
+Source: https://share.transistor.fm/s/5d6c8e4d</description>
+      <pubDate>Fri, 14 Aug 2026 18:38:39 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260814-ce8e9a37-a732-4c58-a44a-a2a52d5dee63</guid>
+      <enclosure url="https://pscrb.fm/rss/p/media.transistor.fm/5d6c8e4d/230e7f8a.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>2791</itunes:duration>
     </item>
   </channel>
 </rss>
