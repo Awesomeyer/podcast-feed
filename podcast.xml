@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 13 Aug 2026 12:52:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 12:31:23 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -159,6 +159,15 @@ Source: https://www.latent.space/p/inference-eng</description>
       <guid isPermaLink="false">developer-vault-queue-20260813-substack-post-209198968</guid>
       <enclosure url="https://api.substack.com/feed/podcast/209198968/9812df16b361bc5838e1961cf85b91ac.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>6089</itunes:duration>
+    </item>
+    <item>
+      <title>18. Day Two DevOps: D2DO310: Developing Efficient AI Workflows</title>
+      <description>Curated wider-net episode for practitioner workflow, tooling, and agentic engineering signal.
+Source: https://podcasts.apple.com/us/podcast/developing-efficient-ai-workflows/id1460004936?i=1000782984921&amp;uo=4</description>
+      <pubDate>Fri, 14 Aug 2026 12:31:23 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260814-https-packetpushers-net-post-type-podcast-p-76080</guid>
+      <enclosure url="https://feeds.packetpushers.net/link/20975/17416439/D2DO310.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>42:18</itunes:duration>
     </item>
   </channel>
 </rss>
