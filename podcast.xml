@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 06 Sep 2026 13:14:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:16:22 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -213,6 +213,15 @@ Source: https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the</d
       <guid isPermaLink="false">developer-vault-queue-20260906-substack-post-209801560</guid>
       <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/209801560/1589890f151cd7ce7e85e635c505cb7c.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>4324</itunes:duration>
+    </item>
+    <item>
+      <title>24. The Joe Reis Show: The Great Recomposition: Why Everything is Blurring Together</title>
+      <description>Joe Reis examines the convergence of software, data, and AI engineering and the growing role of architecture, specifications, semantics, and judgment.
+Source: https://podcasters.spotify.com/pod/show/joereis/episodes/The-Great-Recomposition-Why-Everything-is-Blurring-Together-e3ndive</description>
+      <pubDate>Sun, 06 Sep 2026 13:16:21 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260906-258a8e83-780e-4950-987b-0378c9216e25</guid>
+      <enclosure url="https://anchor.fm/s/4aba058c/podcast/play/124225966/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429846681-44100-2-cdf1affbceee1.m4a" length="0" type="audio/mpeg" />
+      <itunes:duration>00:21:21</itunes:duration>
     </item>
   </channel>
 </rss>
