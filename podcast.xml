@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 06 Sep 2026 13:12:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:12:39 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -195,6 +195,15 @@ Source: https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent<
       <guid isPermaLink="false">developer-vault-queue-20260906-substack-post-211586245</guid>
       <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/211586245/57f58f8fc53fc0fa2f864c0923e1517e.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>4904</itunes:duration>
+    </item>
+    <item>
+      <title>22. AI &amp; I: How a Professional Writer Writes With AI</title>
+      <description>Writer Katie Parrott discusses reusable AI-assisted writing workflows, editorial feedback, context, reporting, and human judgment.
+Source: https://share.transistor.fm/s/2b2641f4</description>
+      <pubDate>Sun, 06 Sep 2026 13:12:39 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260906-df4f5be3-5324-4621-ba3c-bb7d8af1615a</guid>
+      <enclosure url="https://pscrb.fm/rss/p/media.transistor.fm/2b2641f4/f2da1ce8.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>2878</itunes:duration>
     </item>
   </channel>
 </rss>
