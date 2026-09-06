@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 22 Aug 2026 12:30:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:12:04 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -143,16 +143,7 @@ Source: https://bvc.fm/2026/07/09/005.html</description>
       <itunes:duration>01:03:33</itunes:duration>
     </item>
     <item>
-      <title>16. Fragmented: 307 - Harness Engineering - the hard part of AI coding</title>
-      <description>Curated episode on harness engineering and the feedback systems required for reliable AI-assisted coding.
-Source: https://fragmentedpodcast.com/episodes/307</description>
-      <pubDate>Thu, 13 Aug 2026 01:22:21 +0000</pubDate>
-      <guid isPermaLink="false">developer-vault-queue-20260813-08fbaf55-c3c4-4f99-9faa-0f92a4dce103</guid>
-      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/eea5748e-09ed-4c46-8f6a-b2569dd75851/20f35050-e836-44cd-8f7f-fd13e8cb2e44/episodes/audio/group/face4e8b-6fb2-4f91-ab8e-8ad35b829715/group-item/0ce6c86f-d6ef-4ee1-8fa7-9ac6958feed6/128_default_tc.mp3?aid=rss_feed&amp;feed=LpAGSLnY" length="0" type="audio/mpeg" />
-      <itunes:duration>00:29:55</itunes:duration>
-    </item>
-    <item>
-      <title>17. Latent Space: The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten</title>
+      <title>16. Latent Space: The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten</title>
       <description>Curated episode from Latent Space for AI engineering, agents, infrastructure, and practitioner workflow signal.
 Source: https://www.latent.space/p/inference-eng</description>
       <pubDate>Thu, 13 Aug 2026 12:31:32 +0000</pubDate>
@@ -161,7 +152,7 @@ Source: https://www.latent.space/p/inference-eng</description>
       <itunes:duration>6089</itunes:duration>
     </item>
     <item>
-      <title>18. Latent Space: Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI</title>
+      <title>17. Latent Space: Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI</title>
       <description>An interview with OpenAI product leader Akshay Nathan about Codex, ChatGPT Work, agentic interfaces, and expanding software creation beyond professional programmers.
 Source: https://www.latent.space/p/chatgpt-work</description>
       <pubDate>Fri, 14 Aug 2026 18:38:13 +0000</pubDate>
@@ -170,7 +161,7 @@ Source: https://www.latent.space/p/chatgpt-work</description>
       <itunes:duration>4168</itunes:duration>
     </item>
     <item>
-      <title>19. Lenny&#x27;s Podcast: Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)</title>
+      <title>18. Lenny&#x27;s Podcast: Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)</title>
       <description>Netflix CPTO Elizabeth Stone discusses systems thinking, specialization, product and engineering leadership, and how AI is changing the shape of technical work.
 Source: https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future</description>
       <pubDate>Fri, 14 Aug 2026 18:38:25 +0000</pubDate>
@@ -179,7 +170,7 @@ Source: https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future</de
       <itunes:duration>4327</itunes:duration>
     </item>
     <item>
-      <title>20. AI &amp; I: How Every&#x27;s Team Used AI to Ship Its Biggest Launch Ever</title>
+      <title>19. AI &amp; I: How Every&#x27;s Team Used AI to Ship Its Biggest Launch Ever</title>
       <description>A practical account of how Every used Codex and an AI-assisted team workflow to turn a campaign idea into a major product launch.
 Source: https://share.transistor.fm/s/5d6c8e4d</description>
       <pubDate>Fri, 14 Aug 2026 18:38:39 +0000</pubDate>
@@ -188,13 +179,22 @@ Source: https://share.transistor.fm/s/5d6c8e4d</description>
       <itunes:duration>2791</itunes:duration>
     </item>
     <item>
-      <title>21. Latent Space: Simulation: the new Scaling Law — Joon Sung Park, Simile AI</title>
+      <title>20. Latent Space: Simulation: the new Scaling Law — Joon Sung Park, Simile AI</title>
       <description>Curated episode from Latent Space for AI engineering, agents, infrastructure, and practitioner workflow signal.
 Source: https://www.latent.space/p/simile</description>
       <pubDate>Sat, 22 Aug 2026 12:30:42 +0000</pubDate>
       <guid isPermaLink="false">developer-vault-queue-20260822-substack-post-212197985</guid>
       <enclosure url="https://api.substack.com/feed/podcast/212197985/1840b68798a88f3dcc9324819d08a31f.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>4178</itunes:duration>
+    </item>
+    <item>
+      <title>21. Lenny&#x27;s Podcast: AI’s third era: the rise of persistent AI coworkers | Tara Seshan (Product Lead ChatGPT Work)</title>
+      <description>OpenAI product lead Tara Seshan discusses Codex, ChatGPT Work, persistent AI coworkers, and the changing human role in AI-assisted work.
+Source: https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent</description>
+      <pubDate>Sun, 06 Sep 2026 13:12:04 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260906-substack-post-211586245</guid>
+      <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/211586245/57f58f8fc53fc0fa2f864c0923e1517e.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>4904</itunes:duration>
     </item>
   </channel>
 </rss>
