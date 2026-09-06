@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 06 Sep 2026 13:12:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:14:57 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -204,6 +204,15 @@ Source: https://share.transistor.fm/s/2b2641f4</description>
       <guid isPermaLink="false">developer-vault-queue-20260906-df4f5be3-5324-4621-ba3c-bb7d8af1615a</guid>
       <enclosure url="https://pscrb.fm/rss/p/media.transistor.fm/2b2641f4/f2da1ce8.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>2878</itunes:duration>
+    </item>
+    <item>
+      <title>23. Lenny&#x27;s Podcast: OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber</title>
+      <description>OpenAI product-design leader Ian Silber discusses AI-accelerated prototyping, evolving design roles, ChatGPT and Codex product design, and human-centered product judgment.
+Source: https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the</description>
+      <pubDate>Sun, 06 Sep 2026 13:14:57 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260906-substack-post-209801560</guid>
+      <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/209801560/1589890f151cd7ce7e85e635c505cb7c.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>4324</itunes:duration>
     </item>
   </channel>
 </rss>
