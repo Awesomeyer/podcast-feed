@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 06 Sep 2026 13:16:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:08:41 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -37,15 +37,7 @@ Source: https://pocketcasts.com/podcast/unsupervised-learning-with-jacob-effron/
       <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/b3414ac6-61c8-4752-8722-491e1457c3bf/2c08ad29-5b79-42c0-a40a-6c1af4327f2f/episodes/audio/group/e003e405-cd36-4aa4-8163-ed60d9bedfb7/group-item/c022af70-bcd6-4f6a-b999-a31e2e2a868b/128_default_tc.mp3?aid=rss_feed&amp;feed=dOSE_bdP" length="0" type="audio/mpeg" />
     </item>
     <item>
-      <title>4. The Joe Reis Show: Wes McKinney on AI Agents, The Mythical Agent Month, and His Wild AI Coding Setup</title>
-      <description>Curated episode on AI agents, agent-month framing, and a strong practitioner&#x27;s coding setup.
-Source: https://wesmckinney.com/transcripts/2026-04-08-joe-reis-ai-agents-mythical-agent-month.html</description>
-      <pubDate>Wed, 08 Apr 2026 11:01:04 +0000</pubDate>
-      <guid isPermaLink="false">dd55a297-1772-4893-9939-b5bf384fe465</guid>
-      <enclosure url="https://anchor.fm/s/4aba058c/podcast/play/117620562/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-29%2F420960164-44100-2-55ef87149653c.mp3" length="0" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>5. Lenny&#x27;s Podcast: Head of Claude Code: What happens after coding is solved | Boris Cherny</title>
+      <title>4. Lenny&#x27;s Podcast: Head of Claude Code: What happens after coding is solved | Boris Cherny</title>
       <description>Curated episode on Claude Code and how coding-agent workflows may change software work.
 Source: https://api.substack.com/feed/podcast/10845.rss</description>
       <pubDate>Thu, 19 Feb 2026 13:31:57 +0000</pubDate>
@@ -53,7 +45,7 @@ Source: https://api.substack.com/feed/podcast/10845.rss</description>
       <enclosure url="https://api.substack.com/feed/podcast/188147394/4c0ec1642faad3be82879b1b9c53bae8.mp3" length="0" type="audio/mpeg" />
     </item>
     <item>
-      <title>6. Latent Space: Notion’s Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last &amp; Sarah Sachs of Notion</title>
+      <title>5. Latent Space: Notion’s Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last &amp; Sarah Sachs of Notion</title>
       <description>Curated episode on Notion agents, evals, tool exposure, permissions, and software-factory workflow design.
 Source: https://pocketcasts.com/podcast/latent-space-the-ai-engineer-podcast/76358c70-95ec-013b-f332-0acc26574db2/notions-token-town-5-rebuilds-100-tools-mcp-vs-clis-and-the-software-factory-future-simon-last-sarah-sachs-of-notion/6172bbee-0518-4eb5-9b78-ad73a6176505</description>
       <pubDate>Wed, 20 May 2026 20:17:32 -0400</pubDate>
@@ -62,7 +54,7 @@ Source: https://pocketcasts.com/podcast/latent-space-the-ai-engineer-podcast/763
       <itunes:duration>4637</itunes:duration>
     </item>
     <item>
-      <title>7. AI &amp; I: Claude Code Can Be Your Second Brain</title>
+      <title>6. AI &amp; I: Claude Code Can Be Your Second Brain</title>
       <description>Curated episode on Claude Code, Obsidian, local Markdown notes, and AI as a second-brain thinking partner.
 Source: https://tldl-pod.com/episode/1719789201_rss_fc74edb321</description>
       <pubDate>Thu, 21 May 2026 00:23:47 +0000</pubDate>
@@ -71,7 +63,7 @@ Source: https://tldl-pod.com/episode/1719789201_rss_fc74edb321</description>
       <itunes:duration>4202</itunes:duration>
     </item>
     <item>
-      <title>8. Latent Space: The Age of Async Agents — Cognition&#x27;s Walden Yan &amp; OpenInspect&#x27;s Cole Murray</title>
+      <title>7. Latent Space: The Age of Async Agents — Cognition&#x27;s Walden Yan &amp; OpenInspect&#x27;s Cole Murray</title>
       <description>Curated episode on async coding agents, agent evaluation and inspection, and the shift to long-running agent workflows.
 Source: https://www.latent.space/p/cognition</description>
       <pubDate>Thu, 28 May 2026 22:32:06 +0000</pubDate>
@@ -80,7 +72,7 @@ Source: https://www.latent.space/p/cognition</description>
       <itunes:duration>4082</itunes:duration>
     </item>
     <item>
-      <title>9. Latent Space: Railway: The Agent-Native Cloud — Jake Cooper</title>
+      <title>8. Latent Space: Railway: The Agent-Native Cloud — Jake Cooper</title>
       <description>Curated episode on agent-native cloud infrastructure, deployment surfaces, and AI engineering workflow design.
 Source: https://www.latent.space/p/railway</description>
       <pubDate>Sun, 31 May 2026 16:29:32 +0000</pubDate>
@@ -89,7 +81,7 @@ Source: https://www.latent.space/p/railway</description>
       <itunes:duration>5314</itunes:duration>
     </item>
     <item>
-      <title>10. AI &amp; I: Inside Stainless: The Developer Tools Startup Anthropic Just Bought for $300 Million</title>
+      <title>9. AI &amp; I: Inside Stainless: The Developer Tools Startup Anthropic Just Bought for $300 Million</title>
       <description>Curated episode on developer tools, agent-facing tool design, and workflow tradeoffs.
 Source: https://share.transistor.fm/s/e8ee50d5</description>
       <pubDate>Sun, 31 May 2026 16:30:17 +0000</pubDate>
@@ -98,7 +90,7 @@ Source: https://share.transistor.fm/s/e8ee50d5</description>
       <itunes:duration>3086</itunes:duration>
     </item>
     <item>
-      <title>11. Latent Space: Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO</title>
+      <title>10. Latent Space: Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO</title>
       <description>Curated episode from Latent Space for AI engineering, agents, infrastructure, and practitioner workflow signal.
 Source: https://www.latent.space/p/modal2026</description>
       <pubDate>Thu, 09 Jul 2026 15:54:15 +0000</pubDate>
@@ -107,7 +99,7 @@ Source: https://www.latent.space/p/modal2026</description>
       <itunes:duration>3475</itunes:duration>
     </item>
     <item>
-      <title>12. Latent Space: 🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam &amp; Rafa Gómez-Bombarelli, Lila Sciences</title>
+      <title>11. Latent Space: 🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam &amp; Rafa Gómez-Bombarelli, Lila Sciences</title>
       <description>Curated episode from Latent Space for AI engineering, agents, infrastructure, and practitioner workflow signal.
 Source: https://www.latent.space/p/the-lab-of-the-future-should-feel</description>
       <pubDate>Fri, 17 Jul 2026 12:31:38 +0000</pubDate>
@@ -116,7 +108,7 @@ Source: https://www.latent.space/p/the-lab-of-the-future-should-feel</descriptio
       <itunes:duration>6064</itunes:duration>
     </item>
     <item>
-      <title>13. Dynamics Corner: Episode 522: What Was Your Eureka Moment with AI? Smarter Workflows for BC Development</title>
+      <title>12. Dynamics Corner: Episode 522: What Was Your Eureka Moment with AI? Smarter Workflows for BC Development</title>
       <description>Curated wider-net episode for practitioner workflow, tooling, and agentic engineering signal.
 Source: https://podcasts.apple.com/us/podcast/episode-522-what-was-your-eureka-moment-with-ai/id1631935578?i=1000776778099&amp;uo=4</description>
       <pubDate>Fri, 17 Jul 2026 12:31:44 +0000</pubDate>
@@ -125,7 +117,7 @@ Source: https://podcasts.apple.com/us/podcast/episode-522-what-was-your-eureka-m
       <itunes:duration>3566</itunes:duration>
     </item>
     <item>
-      <title>14. Beyond Vibe Coding: #S2.07 Agentic Engineering Is Bringing XP Back - Ben Hoskins (NewStore)</title>
+      <title>13. Beyond Vibe Coding: #S2.07 Agentic Engineering Is Bringing XP Back - Ben Hoskins (NewStore)</title>
       <description>Curated episode on agentic engineering grounded in XP, testing, architecture, and disciplined development workflows.
 Source: https://bvc.fm/2026/07/23/007.html</description>
       <pubDate>Thu, 13 Aug 2026 01:21:46 +0000</pubDate>
@@ -134,16 +126,7 @@ Source: https://bvc.fm/2026/07/23/007.html</description>
       <itunes:duration>00:49:57</itunes:duration>
     </item>
     <item>
-      <title>15. Beyond Vibe Coding: #S2.05 Inside Parloa&#x27;s AI Kitchen: How the Company Building Agents Builds with Agents - Italo Vietro</title>
-      <description>Curated episode on how an engineering organization uses shared agent skills, harnesses, and workflows in production.
-Source: https://bvc.fm/2026/07/09/005.html</description>
-      <pubDate>Thu, 13 Aug 2026 01:21:49 +0000</pubDate>
-      <guid isPermaLink="false">developer-vault-queue-20260813-51cc33ec-a43c-403b-9d90-2bc905a458bf</guid>
-      <enclosure url="https://api.riverside.com/hosting-analytics/media/848a9ce78e8f030f23f6b980da4c9518695b6a487ae40a7681927dc34f03b13d/eyJlcGlzb2RlSWQiOiI1MWNjMzNlYy1hNDNjLTQwM2ItOWQ5MC0yYmM5MDVhNDU4YmYiLCJwb2RjYXN0SWQiOiIwNWU2YWFhMC0wZTRiLTRjMTktOWRlMS0zNTI5NTQ5OTA0ZWUiLCJhY2NvdW50SWQiOiI2OTZhYThiNWNjZDI2MTRlYzk3MDQ2ZTciLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE0ZmNhNjgwNWM1NzJiZGQyNjJjZGM3L2FuZHItbmV1YmF1ZXJzLXN0dWRpby1jb21wb3Nlci0yMDI2LTctOV9fMTgtMjAtNTYubXAzIn0=.mp3" length="0" type="audio/mpeg" />
-      <itunes:duration>01:03:33</itunes:duration>
-    </item>
-    <item>
-      <title>16. Latent Space: The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten</title>
+      <title>14. Latent Space: The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten</title>
       <description>Curated episode from Latent Space for AI engineering, agents, infrastructure, and practitioner workflow signal.
 Source: https://www.latent.space/p/inference-eng</description>
       <pubDate>Thu, 13 Aug 2026 12:31:32 +0000</pubDate>
@@ -152,7 +135,7 @@ Source: https://www.latent.space/p/inference-eng</description>
       <itunes:duration>6089</itunes:duration>
     </item>
     <item>
-      <title>17. Latent Space: Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI</title>
+      <title>15. Latent Space: Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI</title>
       <description>An interview with OpenAI product leader Akshay Nathan about Codex, ChatGPT Work, agentic interfaces, and expanding software creation beyond professional programmers.
 Source: https://www.latent.space/p/chatgpt-work</description>
       <pubDate>Fri, 14 Aug 2026 18:38:13 +0000</pubDate>
@@ -161,7 +144,7 @@ Source: https://www.latent.space/p/chatgpt-work</description>
       <itunes:duration>4168</itunes:duration>
     </item>
     <item>
-      <title>18. Lenny&#x27;s Podcast: Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)</title>
+      <title>16. Lenny&#x27;s Podcast: Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)</title>
       <description>Netflix CPTO Elizabeth Stone discusses systems thinking, specialization, product and engineering leadership, and how AI is changing the shape of technical work.
 Source: https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future</description>
       <pubDate>Fri, 14 Aug 2026 18:38:25 +0000</pubDate>
@@ -170,7 +153,7 @@ Source: https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future</de
       <itunes:duration>4327</itunes:duration>
     </item>
     <item>
-      <title>19. AI &amp; I: How Every&#x27;s Team Used AI to Ship Its Biggest Launch Ever</title>
+      <title>17. AI &amp; I: How Every&#x27;s Team Used AI to Ship Its Biggest Launch Ever</title>
       <description>A practical account of how Every used Codex and an AI-assisted team workflow to turn a campaign idea into a major product launch.
 Source: https://share.transistor.fm/s/5d6c8e4d</description>
       <pubDate>Fri, 14 Aug 2026 18:38:39 +0000</pubDate>
@@ -179,16 +162,7 @@ Source: https://share.transistor.fm/s/5d6c8e4d</description>
       <itunes:duration>2791</itunes:duration>
     </item>
     <item>
-      <title>20. Latent Space: Simulation: the new Scaling Law — Joon Sung Park, Simile AI</title>
-      <description>Curated episode from Latent Space for AI engineering, agents, infrastructure, and practitioner workflow signal.
-Source: https://www.latent.space/p/simile</description>
-      <pubDate>Sat, 22 Aug 2026 12:30:42 +0000</pubDate>
-      <guid isPermaLink="false">developer-vault-queue-20260822-substack-post-212197985</guid>
-      <enclosure url="https://api.substack.com/feed/podcast/212197985/1840b68798a88f3dcc9324819d08a31f.mp3" length="0" type="audio/mpeg" />
-      <itunes:duration>4178</itunes:duration>
-    </item>
-    <item>
-      <title>21. Lenny&#x27;s Podcast: AI’s third era: the rise of persistent AI coworkers | Tara Seshan (Product Lead ChatGPT Work)</title>
+      <title>18. Lenny&#x27;s Podcast: AI’s third era: the rise of persistent AI coworkers | Tara Seshan (Product Lead ChatGPT Work)</title>
       <description>OpenAI product lead Tara Seshan discusses Codex, ChatGPT Work, persistent AI coworkers, and the changing human role in AI-assisted work.
 Source: https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent</description>
       <pubDate>Sun, 06 Sep 2026 13:12:04 +0000</pubDate>
@@ -197,16 +171,7 @@ Source: https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent<
       <itunes:duration>4904</itunes:duration>
     </item>
     <item>
-      <title>22. AI &amp; I: How a Professional Writer Writes With AI</title>
-      <description>Writer Katie Parrott discusses reusable AI-assisted writing workflows, editorial feedback, context, reporting, and human judgment.
-Source: https://share.transistor.fm/s/2b2641f4</description>
-      <pubDate>Sun, 06 Sep 2026 13:12:39 +0000</pubDate>
-      <guid isPermaLink="false">developer-vault-queue-20260906-df4f5be3-5324-4621-ba3c-bb7d8af1615a</guid>
-      <enclosure url="https://pscrb.fm/rss/p/media.transistor.fm/2b2641f4/f2da1ce8.mp3" length="0" type="audio/mpeg" />
-      <itunes:duration>2878</itunes:duration>
-    </item>
-    <item>
-      <title>23. Lenny&#x27;s Podcast: OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber</title>
+      <title>19. Lenny&#x27;s Podcast: OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber</title>
       <description>OpenAI product-design leader Ian Silber discusses AI-accelerated prototyping, evolving design roles, ChatGPT and Codex product design, and human-centered product judgment.
 Source: https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the</description>
       <pubDate>Sun, 06 Sep 2026 13:14:57 +0000</pubDate>
@@ -215,13 +180,13 @@ Source: https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the</d
       <itunes:duration>4324</itunes:duration>
     </item>
     <item>
-      <title>24. The Joe Reis Show: The Great Recomposition: Why Everything is Blurring Together</title>
-      <description>Joe Reis examines the convergence of software, data, and AI engineering and the growing role of architecture, specifications, semantics, and judgment.
-Source: https://podcasters.spotify.com/pod/show/joereis/episodes/The-Great-Recomposition-Why-Everything-is-Blurring-Together-e3ndive</description>
-      <pubDate>Sun, 06 Sep 2026 13:16:21 +0000</pubDate>
-      <guid isPermaLink="false">developer-vault-queue-20260906-258a8e83-780e-4950-987b-0378c9216e25</guid>
-      <enclosure url="https://anchor.fm/s/4aba058c/podcast/play/124225966/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429846681-44100-2-cdf1affbceee1.m4a" length="0" type="audio/mpeg" />
-      <itunes:duration>00:21:21</itunes:duration>
+      <title>20. Latent Space: Humanity’s Last Invention — Richard Socher of Recursive</title>
+      <description>Curated episode from Latent Space for AI engineering and practitioner workflow signal.
+Source: https://www.latent.space/p/recursive</description>
+      <pubDate>Tue, 15 Sep 2026 23:08:37 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260915-substack-post-215289811</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/215289811/1260983624309416bbbf449dede103f0.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>5530</itunes:duration>
     </item>
   </channel>
 </rss>
