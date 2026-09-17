@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 15 Sep 2026 23:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:02:14 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -187,6 +187,15 @@ Source: https://www.latent.space/p/recursive</description>
       <guid isPermaLink="false">developer-vault-queue-20260915-substack-post-215289811</guid>
       <enclosure url="https://api.substack.com/feed/podcast/215289811/1260983624309416bbbf449dede103f0.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>5530</itunes:duration>
+    </item>
+    <item>
+      <title>21. Latent Space: Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC</title>
+      <description>Curated episode from Latent Space for AI engineering and practitioner workflow signal.
+Source: https://www.latent.space/p/aiuc</description>
+      <pubDate>Thu, 17 Sep 2026 13:02:09 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260917-substack-post-215893904</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/215893904/864d16b5b0e3926d9bbd6c95e3299fa1.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>5174</itunes:duration>
     </item>
   </channel>
 </rss>
