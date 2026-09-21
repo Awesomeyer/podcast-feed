@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 17 Sep 2026 13:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 13:02:08 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -196,6 +196,15 @@ Source: https://www.latent.space/p/aiuc</description>
       <guid isPermaLink="false">developer-vault-queue-20260917-substack-post-215893904</guid>
       <enclosure url="https://api.substack.com/feed/podcast/215893904/864d16b5b0e3926d9bbd6c95e3299fa1.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>5174</itunes:duration>
+    </item>
+    <item>
+      <title>22. Agents of Dev - AI, Agent &amp; Agentic Development: Beyond the AI Doomer Hype Harness Engineering, Context Economics, and Agentic Workflows | Agents of Dev Episode 38</title>
+      <description>Curated wider-net episode for practitioner workflow, tooling, and agentic engineering signal.
+Source: https://podcasts.apple.com/us/podcast/beyond-the-ai-doomer-hype-harness-engineering-context/id1858976619?i=1000790400292&amp;uo=4</description>
+      <pubDate>Mon, 21 Sep 2026 13:02:07 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260921-agentsofdev-podbean-com-e344d4f4-41e1-3f70-b3a4-9d4f8e3dd97e</guid>
+      <enclosure url="https://mcdn.podbean.com/mf/web/bdguqpf8qhtxgteq/AOD038_-_Beyond_the_AI_Doomer_Hype_Harness_Engineering_Context_Economics_and_Agentic_Workflows7hgfe.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>2958</itunes:duration>
     </item>
   </channel>
 </rss>
