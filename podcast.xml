@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 21 Sep 2026 13:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 13:00:48 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -205,6 +205,15 @@ Source: https://podcasts.apple.com/us/podcast/beyond-the-ai-doomer-hype-harness-
       <guid isPermaLink="false">developer-vault-queue-20260921-agentsofdev-podbean-com-e344d4f4-41e1-3f70-b3a4-9d4f8e3dd97e</guid>
       <enclosure url="https://mcdn.podbean.com/mf/web/bdguqpf8qhtxgteq/AOD038_-_Beyond_the_AI_Doomer_Hype_Harness_Engineering_Context_Economics_and_Agentic_Workflows7hgfe.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>2958</itunes:duration>
+    </item>
+    <item>
+      <title>23. Latent Space: Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI</title>
+      <description>Curated episode from Latent Space for AI engineering and practitioner workflow signal.
+Source: https://www.latent.space/p/jev</description>
+      <pubDate>Tue, 22 Sep 2026 13:00:45 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260922-substack-post-216783460</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/216783460/c2acac966e67afb7e71574f68a44a662.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>8453</itunes:duration>
     </item>
   </channel>
 </rss>
