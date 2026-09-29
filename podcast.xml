@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 26 Sep 2026 14:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:01:46 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -232,6 +232,15 @@ Source: https://podcasts.apple.com/us/podcast/beyond-agi-hype-demystifying-ai-ha
       <guid isPermaLink="false">developer-vault-queue-20260926-agentsofdev-podbean-com-9ad2b285-fa37-3715-8199-0451964f8947</guid>
       <enclosure url="https://mcdn.podbean.com/mf/web/7gysix9vp4i3kh56/AOD039_-_Title_Neededacdq9.mp4" length="0" type="audio/mpeg" />
       <itunes:duration>2534</itunes:duration>
+    </item>
+    <item>
+      <title>26. Latent Space: Claude Code’s Next Era — Thariq Shihipar, Anthropic</title>
+      <description>Curated episode from Latent Space for AI engineering and practitioner workflow signal.
+Source: https://www.latent.space/p/thariq</description>
+      <pubDate>Tue, 29 Sep 2026 13:01:46 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20260929-substack-post-217893105</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/217893105/df59f83c2e6844288112278c28b8e538.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>5549</itunes:duration>
     </item>
   </channel>
 </rss>
