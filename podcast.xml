@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 29 Sep 2026 13:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:10:14 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -99,16 +99,7 @@ Source: https://www.latent.space/p/modal2026</description>
       <itunes:duration>3475</itunes:duration>
     </item>
     <item>
-      <title>11. Latent Space: 🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam &amp; Rafa Gómez-Bombarelli, Lila Sciences</title>
-      <description>Curated episode from Latent Space for AI engineering, agents, infrastructure, and practitioner workflow signal.
-Source: https://www.latent.space/p/the-lab-of-the-future-should-feel</description>
-      <pubDate>Fri, 17 Jul 2026 12:31:38 +0000</pubDate>
-      <guid isPermaLink="false">developer-vault-queue-20260717-substack-post-207109360</guid>
-      <enclosure url="https://api.substack.com/feed/podcast/207109360/bfeb234f52e25f505c732000262964af.mp3" length="0" type="audio/mpeg" />
-      <itunes:duration>6064</itunes:duration>
-    </item>
-    <item>
-      <title>12. Dynamics Corner: Episode 522: What Was Your Eureka Moment with AI? Smarter Workflows for BC Development</title>
+      <title>11. Dynamics Corner: Episode 522: What Was Your Eureka Moment with AI? Smarter Workflows for BC Development</title>
       <description>Curated wider-net episode for practitioner workflow, tooling, and agentic engineering signal.
 Source: https://podcasts.apple.com/us/podcast/episode-522-what-was-your-eureka-moment-with-ai/id1631935578?i=1000776778099&amp;uo=4</description>
       <pubDate>Fri, 17 Jul 2026 12:31:44 +0000</pubDate>
@@ -117,7 +108,7 @@ Source: https://podcasts.apple.com/us/podcast/episode-522-what-was-your-eureka-m
       <itunes:duration>3566</itunes:duration>
     </item>
     <item>
-      <title>13. Beyond Vibe Coding: #S2.07 Agentic Engineering Is Bringing XP Back - Ben Hoskins (NewStore)</title>
+      <title>12. Beyond Vibe Coding: #S2.07 Agentic Engineering Is Bringing XP Back - Ben Hoskins (NewStore)</title>
       <description>Curated episode on agentic engineering grounded in XP, testing, architecture, and disciplined development workflows.
 Source: https://bvc.fm/2026/07/23/007.html</description>
       <pubDate>Thu, 13 Aug 2026 01:21:46 +0000</pubDate>
@@ -126,16 +117,7 @@ Source: https://bvc.fm/2026/07/23/007.html</description>
       <itunes:duration>00:49:57</itunes:duration>
     </item>
     <item>
-      <title>14. Latent Space: The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten</title>
-      <description>Curated episode from Latent Space for AI engineering, agents, infrastructure, and practitioner workflow signal.
-Source: https://www.latent.space/p/inference-eng</description>
-      <pubDate>Thu, 13 Aug 2026 12:31:32 +0000</pubDate>
-      <guid isPermaLink="false">developer-vault-queue-20260813-substack-post-209198968</guid>
-      <enclosure url="https://api.substack.com/feed/podcast/209198968/9812df16b361bc5838e1961cf85b91ac.mp3" length="0" type="audio/mpeg" />
-      <itunes:duration>6089</itunes:duration>
-    </item>
-    <item>
-      <title>15. Latent Space: Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI</title>
+      <title>13. Latent Space: Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI</title>
       <description>An interview with OpenAI product leader Akshay Nathan about Codex, ChatGPT Work, agentic interfaces, and expanding software creation beyond professional programmers.
 Source: https://www.latent.space/p/chatgpt-work</description>
       <pubDate>Fri, 14 Aug 2026 18:38:13 +0000</pubDate>
@@ -144,7 +126,7 @@ Source: https://www.latent.space/p/chatgpt-work</description>
       <itunes:duration>4168</itunes:duration>
     </item>
     <item>
-      <title>16. Lenny&#x27;s Podcast: Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)</title>
+      <title>14. Lenny&#x27;s Podcast: Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)</title>
       <description>Netflix CPTO Elizabeth Stone discusses systems thinking, specialization, product and engineering leadership, and how AI is changing the shape of technical work.
 Source: https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future</description>
       <pubDate>Fri, 14 Aug 2026 18:38:25 +0000</pubDate>
@@ -153,7 +135,7 @@ Source: https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future</de
       <itunes:duration>4327</itunes:duration>
     </item>
     <item>
-      <title>17. AI &amp; I: How Every&#x27;s Team Used AI to Ship Its Biggest Launch Ever</title>
+      <title>15. AI &amp; I: How Every&#x27;s Team Used AI to Ship Its Biggest Launch Ever</title>
       <description>A practical account of how Every used Codex and an AI-assisted team workflow to turn a campaign idea into a major product launch.
 Source: https://share.transistor.fm/s/5d6c8e4d</description>
       <pubDate>Fri, 14 Aug 2026 18:38:39 +0000</pubDate>
@@ -162,7 +144,7 @@ Source: https://share.transistor.fm/s/5d6c8e4d</description>
       <itunes:duration>2791</itunes:duration>
     </item>
     <item>
-      <title>18. Lenny&#x27;s Podcast: AI’s third era: the rise of persistent AI coworkers | Tara Seshan (Product Lead ChatGPT Work)</title>
+      <title>16. Lenny&#x27;s Podcast: AI’s third era: the rise of persistent AI coworkers | Tara Seshan (Product Lead ChatGPT Work)</title>
       <description>OpenAI product lead Tara Seshan discusses Codex, ChatGPT Work, persistent AI coworkers, and the changing human role in AI-assisted work.
 Source: https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent</description>
       <pubDate>Sun, 06 Sep 2026 13:12:04 +0000</pubDate>
@@ -171,7 +153,7 @@ Source: https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent<
       <itunes:duration>4904</itunes:duration>
     </item>
     <item>
-      <title>19. Lenny&#x27;s Podcast: OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber</title>
+      <title>17. Lenny&#x27;s Podcast: OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber</title>
       <description>OpenAI product-design leader Ian Silber discusses AI-accelerated prototyping, evolving design roles, ChatGPT and Codex product design, and human-centered product judgment.
 Source: https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the</description>
       <pubDate>Sun, 06 Sep 2026 13:14:57 +0000</pubDate>
@@ -180,25 +162,7 @@ Source: https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the</d
       <itunes:duration>4324</itunes:duration>
     </item>
     <item>
-      <title>20. Latent Space: Humanity’s Last Invention — Richard Socher of Recursive</title>
-      <description>Curated episode from Latent Space for AI engineering and practitioner workflow signal.
-Source: https://www.latent.space/p/recursive</description>
-      <pubDate>Tue, 15 Sep 2026 23:08:37 +0000</pubDate>
-      <guid isPermaLink="false">developer-vault-queue-20260915-substack-post-215289811</guid>
-      <enclosure url="https://api.substack.com/feed/podcast/215289811/1260983624309416bbbf449dede103f0.mp3" length="0" type="audio/mpeg" />
-      <itunes:duration>5530</itunes:duration>
-    </item>
-    <item>
-      <title>21. Latent Space: Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC</title>
-      <description>Curated episode from Latent Space for AI engineering and practitioner workflow signal.
-Source: https://www.latent.space/p/aiuc</description>
-      <pubDate>Thu, 17 Sep 2026 13:02:09 +0000</pubDate>
-      <guid isPermaLink="false">developer-vault-queue-20260917-substack-post-215893904</guid>
-      <enclosure url="https://api.substack.com/feed/podcast/215893904/864d16b5b0e3926d9bbd6c95e3299fa1.mp3" length="0" type="audio/mpeg" />
-      <itunes:duration>5174</itunes:duration>
-    </item>
-    <item>
-      <title>22. Agents of Dev - AI, Agent &amp; Agentic Development: Beyond the AI Doomer Hype Harness Engineering, Context Economics, and Agentic Workflows | Agents of Dev Episode 38</title>
+      <title>18. Agents of Dev - AI, Agent &amp; Agentic Development: Beyond the AI Doomer Hype Harness Engineering, Context Economics, and Agentic Workflows | Agents of Dev Episode 38</title>
       <description>Curated wider-net episode for practitioner workflow, tooling, and agentic engineering signal.
 Source: https://podcasts.apple.com/us/podcast/beyond-the-ai-doomer-hype-harness-engineering-context/id1858976619?i=1000790400292&amp;uo=4</description>
       <pubDate>Mon, 21 Sep 2026 13:02:07 +0000</pubDate>
@@ -207,7 +171,7 @@ Source: https://podcasts.apple.com/us/podcast/beyond-the-ai-doomer-hype-harness-
       <itunes:duration>2958</itunes:duration>
     </item>
     <item>
-      <title>23. Latent Space: Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI</title>
+      <title>19. Latent Space: Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI</title>
       <description>Curated episode from Latent Space for AI engineering and practitioner workflow signal.
 Source: https://www.latent.space/p/jev</description>
       <pubDate>Tue, 22 Sep 2026 13:00:45 +0000</pubDate>
@@ -216,16 +180,7 @@ Source: https://www.latent.space/p/jev</description>
       <itunes:duration>8453</itunes:duration>
     </item>
     <item>
-      <title>24. Latent Space: OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah &amp; AMP’s Anjney Midha</title>
-      <description>Curated episode from Latent Space for AI engineering and practitioner workflow signal.
-Source: https://www.latent.space/p/openrouter</description>
-      <pubDate>Sat, 26 Sep 2026 14:12:56 +0000</pubDate>
-      <guid isPermaLink="false">developer-vault-queue-20260926-substack-post-217456046</guid>
-      <enclosure url="https://api.substack.com/feed/podcast/217456046/4aa3c21486791f6b1b62688971f50a39.mp3" length="0" type="audio/mpeg" />
-      <itunes:duration>4843</itunes:duration>
-    </item>
-    <item>
-      <title>25. Agents of Dev - AI, Agent &amp; Agentic Development: Beyond AGI Hype: Demystifying AI Harnesses, Context Economics, and Agentic Workflows | Agents of Dev Episode 39</title>
+      <title>20. Agents of Dev - AI, Agent &amp; Agentic Development: Beyond AGI Hype: Demystifying AI Harnesses, Context Economics, and Agentic Workflows | Agents of Dev Episode 39</title>
       <description>Curated wider-net episode for practitioner workflow, tooling, and agentic engineering signal.
 Source: https://podcasts.apple.com/us/podcast/beyond-agi-hype-demystifying-ai-harnesses-context-economics/id1858976619?i=1000791477531&amp;uo=4</description>
       <pubDate>Sat, 26 Sep 2026 14:13:01 +0000</pubDate>
@@ -234,7 +189,7 @@ Source: https://podcasts.apple.com/us/podcast/beyond-agi-hype-demystifying-ai-ha
       <itunes:duration>2534</itunes:duration>
     </item>
     <item>
-      <title>26. Latent Space: Claude Code’s Next Era — Thariq Shihipar, Anthropic</title>
+      <title>21. Latent Space: Claude Code’s Next Era — Thariq Shihipar, Anthropic</title>
       <description>Curated episode from Latent Space for AI engineering and practitioner workflow signal.
 Source: https://www.latent.space/p/thariq</description>
       <pubDate>Tue, 29 Sep 2026 13:01:46 +0000</pubDate>
