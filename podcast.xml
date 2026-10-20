@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 20 Oct 2026 23:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 23:07:15 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -205,6 +205,15 @@ Source: https://www.latent.space/p/devday-2026</description>
       <guid isPermaLink="false">developer-vault-queue-20261020-substack-post-218243619</guid>
       <enclosure url="https://api.substack.com/feed/podcast/218243619/bab92a493c836ce907351acda5d8c2ec.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>2352</itunes:duration>
+    </item>
+    <item>
+      <title>23. Latent Space: Academia is for Ambition — Alex Zhang, MIT</title>
+      <description>Substantial research on agent architecture: context offloading, executable harnesses, recursive subagents, shared memory and persistent agent communication. Offers transferable software-building ideas under the research-architecture trial approved by the user on 2026-10-20.
+Source: https://www.latent.space/p/rlm</description>
+      <pubDate>Tue, 20 Oct 2026 23:07:15 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20261020-substack-post-218414422</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/218414422/8282d299c840a81c150130424b8a1903.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>6088</itunes:duration>
     </item>
   </channel>
 </rss>
