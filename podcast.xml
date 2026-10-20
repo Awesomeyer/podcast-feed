@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 29 Sep 2026 21:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 23:01:41 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -196,6 +196,15 @@ Source: https://www.latent.space/p/thariq</description>
       <guid isPermaLink="false">developer-vault-queue-20260929-substack-post-217893105</guid>
       <enclosure url="https://api.substack.com/feed/podcast/217893105/df59f83c2e6844288112278c28b8e538.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>5549</itunes:duration>
+    </item>
+    <item>
+      <title>22. Latent Space: Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week</title>
+      <description>Concrete engineering lessons on self-debugging computer-use agents, software testing, async tools, caching and context compaction, with examples of how OpenAI builds and uses agent APIs.
+Source: https://www.latent.space/p/devday-2026</description>
+      <pubDate>Tue, 20 Oct 2026 23:01:41 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20261020-substack-post-218243619</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/218243619/bab92a493c836ce907351acda5d8c2ec.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>2352</itunes:duration>
     </item>
   </channel>
 </rss>
