@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 20 Oct 2026 23:07:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:03:33 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -214,6 +214,15 @@ Source: https://www.latent.space/p/rlm</description>
       <guid isPermaLink="false">developer-vault-queue-20261020-substack-post-218414422</guid>
       <enclosure url="https://api.substack.com/feed/podcast/218414422/8282d299c840a81c150130424b8a1903.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>6088</itunes:duration>
+    </item>
+    <item>
+      <title>24. Latent Space: AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman &amp; CJ Hess</title>
+      <description>Concrete lessons from Tenex&#x27;s AI-native development process: repo-based plans and decisions, shared agent skills and CLI, long-running task context, deployment constraints, and judging whether custom software is worth maintaining.
+Source: https://www.latent.space/p/tenex</description>
+      <pubDate>Wed, 21 Oct 2026 13:03:33 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20261021-substack-post-221403684</guid>
+      <enclosure url="https://api.substack.com/feed/podcast/221403684/5b26ff73916385d08efdaa6bd2514a4b.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>2613</itunes:duration>
     </item>
   </channel>
 </rss>
