@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 23 Oct 2026 12:09:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:56:03 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -239,6 +239,15 @@ Source: https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think<
       <guid isPermaLink="false">developer-vault-queue-20261023-substack-post-216810191</guid>
       <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/216810191/b5148fc43510e2906d5e532bff5b6116.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>3731</itunes:duration>
+    </item>
+    <item>
+      <title>27. Latent Space: The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi</title>
+      <description>A concrete AI-product case study: combining public and private data into a recommendation pipeline, designing for users&#x27; existing workflows, communicating source confidence, extracting documents and weighing model ownership against vendor privacy risks.
+Source: https://www.latent.space/p/moshi</description>
+      <pubDate>Fri, 23 Oct 2026 12:56:03 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20261023-substack-post-221404681</guid>
+      <enclosure url="https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1641c-6022-751d-84e7-ce1521a0983d/01a1641c-605f-7675-a60f-8606f3ed51a6.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>1600</itunes:duration>
     </item>
   </channel>
 </rss>
