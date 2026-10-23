@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 21 Oct 2026 13:03:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:09:11 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -207,22 +207,38 @@ Source: https://www.latent.space/p/devday-2026</description>
       <itunes:duration>2352</itunes:duration>
     </item>
     <item>
-      <title>23. Latent Space: Academia is for Ambition — Alex Zhang, MIT</title>
-      <description>Substantial research on agent architecture: context offloading, executable harnesses, recursive subagents, shared memory and persistent agent communication. Offers transferable software-building ideas under the research-architecture trial approved by the user on 2026-10-20.
-Source: https://www.latent.space/p/rlm</description>
-      <pubDate>Tue, 20 Oct 2026 23:07:15 +0000</pubDate>
-      <guid isPermaLink="false">developer-vault-queue-20261020-substack-post-218414422</guid>
-      <enclosure url="https://api.substack.com/feed/podcast/218414422/8282d299c840a81c150130424b8a1903.mp3" length="0" type="audio/mpeg" />
-      <itunes:duration>6088</itunes:duration>
-    </item>
-    <item>
-      <title>24. Latent Space: AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman &amp; CJ Hess</title>
+      <title>23. Latent Space: AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman &amp; CJ Hess</title>
       <description>Concrete lessons from Tenex&#x27;s AI-native development process: repo-based plans and decisions, shared agent skills and CLI, long-running task context, deployment constraints, and judging whether custom software is worth maintaining.
 Source: https://www.latent.space/p/tenex</description>
       <pubDate>Wed, 21 Oct 2026 13:03:33 +0000</pubDate>
       <guid isPermaLink="false">developer-vault-queue-20261021-substack-post-221403684</guid>
       <enclosure url="https://api.substack.com/feed/podcast/221403684/5b26ff73916385d08efdaa6bd2514a4b.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>2613</itunes:duration>
+    </item>
+    <item>
+      <title>24. AI &amp; I: Why Every Traded Personal Agents for One Company Agent</title>
+      <description>How Every redesigned its agent workflow around a shared company agent, with concrete failure lessons and engineering-management practices.</description>
+      <pubDate>Fri, 23 Oct 2026 12:08:52 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20261023-flightcast-01m4bdw19zfped9tq4s5dp60py</guid>
+      <enclosure url="https://episode.flightcast.com/01M4BDW19ZFPED9TQ4S5DP60PY.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>2026</itunes:duration>
+    </item>
+    <item>
+      <title>25. AI &amp; I: How a Frontier Team Can Help Your Company Keep Up With AI</title>
+      <description>Every demonstrates how a small frontier team tests models and turns experiments into software, agent orchestration and reusable tools.</description>
+      <pubDate>Fri, 23 Oct 2026 12:08:53 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20261023-flightcast-01m5fjntdczpd6vsakd7w6s821</guid>
+      <enclosure url="https://episode.flightcast.com/01M5FJNTDCZPD6VSAKD7W6S821.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>2581</itunes:duration>
+    </item>
+    <item>
+      <title>26. Lenny&#x27;s Podcast: Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)</title>
+      <description>Josh Woodward explains practical AI product experimentation, when to stop an idea, and how to organize a commercial product-development team.
+Source: https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think</description>
+      <pubDate>Fri, 23 Oct 2026 12:08:53 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20261023-substack-post-216810191</guid>
+      <enclosure url="https://pscrb.fm/rss/p/api.substack.com/feed/podcast/216810191/b5148fc43510e2906d5e532bff5b6116.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>3731</itunes:duration>
     </item>
   </channel>
 </rss>
