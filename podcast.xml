@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 23 Oct 2026 12:56:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:57:26 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -248,6 +248,15 @@ Source: https://www.latent.space/p/moshi</description>
       <guid isPermaLink="false">developer-vault-queue-20261023-substack-post-221404681</guid>
       <enclosure url="https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1641c-6022-751d-84e7-ce1521a0983d/01a1641c-605f-7675-a60f-8606f3ed51a6.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>1600</itunes:duration>
+    </item>
+    <item>
+      <title>28. Latent Space: How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands</title>
+      <description>Practical platform and agent engineering: separating durable sessions and inference from execution sandboxes, protecting credentials, maintaining memory across context windows, and evaluating and shipping reliable agent applications.
+Source: https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands</description>
+      <pubDate>Wed, 28 Oct 2026 12:57:26 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20261028-01a17e24-16fc-7437-bdba-3b11fa5abbe6</guid>
+      <enclosure url="https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a17e24-16fc-71e3-bdc8-f0c1aeee546c/01a17e24-18bb-7daa-afc4-3f3bfdc294d7.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>6400</itunes:duration>
     </item>
   </channel>
 </rss>
