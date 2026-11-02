@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 28 Oct 2026 12:57:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:04:43 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -257,6 +257,15 @@ Source: https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcas
       <guid isPermaLink="false">developer-vault-queue-20261028-01a17e24-16fc-7437-bdba-3b11fa5abbe6</guid>
       <enclosure url="https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a17e24-16fc-71e3-bdc8-f0c1aeee546c/01a17e24-18bb-7daa-afc4-3f3bfdc294d7.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>6400</itunes:duration>
+    </item>
+    <item>
+      <title>29. Latent Space: Using Agents for Long-Horizon Financial Work — Aman Singh, Arca</title>
+      <description>A practical agent implementation: custom harness and model routing, persistent memory across multi-day handoffs, deterministic permissions, verified sandbox queries, and converting staff feedback and traces into better evaluations.
+Source: https://latent.space/p/arca</description>
+      <pubDate>Mon, 02 Nov 2026 14:04:42 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20261102-01a18ea6-94fa-7850-937b-c5c57b469b6a</guid>
+      <enclosure url="https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a18ea6-9508-712c-b5ff-54536059aced/01a18eb9-7b8e-7f04-b56a-8580cdb8c207.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>1565</itunes:duration>
     </item>
   </channel>
 </rss>
