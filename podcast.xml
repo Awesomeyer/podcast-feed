@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 02 Nov 2026 14:04:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:02:19 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -266,6 +266,15 @@ Source: https://latent.space/p/arca</description>
       <guid isPermaLink="false">developer-vault-queue-20261102-01a18ea6-94fa-7850-937b-c5c57b469b6a</guid>
       <enclosure url="https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a18ea6-9508-712c-b5ff-54536059aced/01a18eb9-7b8e-7f04-b56a-8580cdb8c207.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>1565</itunes:duration>
+    </item>
+    <item>
+      <title>30. Latent Space: Building Legal Agents When You Can&#x27;t See the Data - Jacob Lauritzen, CTO of Legora</title>
+      <description>Concrete legal-agent product engineering: evaluating without customer traces, privacy-aware failure analysis, composing document and Slack workflows, onboarding users, and designing retrieval, citations and agent harnesses.
+Source: https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora</description>
+      <pubDate>Tue, 03 Nov 2026 14:02:19 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20261103-youtube-bjbefzlkpoq</guid>
+      <enclosure url="https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a19df0-34a3-7307-96fc-48928908772b/01a19df0-35e0-7c61-90cc-3a37c8983d85.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>4041</itunes:duration>
     </item>
   </channel>
 </rss>
