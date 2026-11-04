@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 03 Nov 2026 14:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:06:09 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -275,6 +275,15 @@ Source: https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcas
       <guid isPermaLink="false">developer-vault-queue-20261103-youtube-bjbefzlkpoq</guid>
       <enclosure url="https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a19df0-34a3-7307-96fc-48928908772b/01a19df0-35e0-7c61-90cc-3a37c8983d85.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>4041</itunes:duration>
+    </item>
+    <item>
+      <title>31. Latent Space: ⚡️ The 2026 Software Factory Standard — Zach Lloyd, Warp.dev</title>
+      <description>A demonstrated software-factory workflow: turning Slack tasks into pull requests, inspecting shared agent traces, measuring cost and quality, benchmarking real engineering work, and improving the agent system itself.
+Source: https://www.youtube.com/watch?v=LL0YmIyBKSU</description>
+      <pubDate>Wed, 04 Nov 2026 14:06:09 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20261104-youtube-ll0ymiybksu</guid>
+      <enclosure url="https://podcast.latent.space/audio/LL0YmIyBKSU.m4a" length="0" type="audio/mpeg" />
+      <itunes:duration>2088</itunes:duration>
     </item>
   </channel>
 </rss>
