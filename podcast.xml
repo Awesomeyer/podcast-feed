@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 05 Nov 2026 14:02:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:01:07 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -293,6 +293,15 @@ Source: https://www.youtube.com/watch?v=v-d1WTqIULs</description>
       <guid isPermaLink="false">developer-vault-queue-20261105-youtube-v-d1wtqiuls</guid>
       <enclosure url="https://podcast.latent.space/audio/v-d1WTqIULs.m4a" length="0" type="audio/mpeg" />
       <itunes:duration>1654</itunes:duration>
+    </item>
+    <item>
+      <title>33. Latent Space: Why Agents Love Supabase</title>
+      <description>Practical backend choices for agent-built applications: declarative database schemas in Git, reproducible local setup, compute alongside data, migrations and operational context that agents can inspect.
+Source: https://latent.space/p/supabase</description>
+      <pubDate>Fri, 06 Nov 2026 14:01:06 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20261106-01a1794a-94ec-7106-9f74-d300c3d89af2</guid>
+      <enclosure url="https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1794a-94ec-7f36-ab76-412cdc9ed579/01a183eb-8968-7863-ad65-64165119cad1.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>4598</itunes:duration>
     </item>
   </channel>
 </rss>
