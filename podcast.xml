@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 06 Nov 2026 14:01:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:05:53 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -302,6 +302,15 @@ Source: https://latent.space/p/supabase</description>
       <guid isPermaLink="false">developer-vault-queue-20261106-01a1794a-94ec-7106-9f74-d300c3d89af2</guid>
       <enclosure url="https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1794a-94ec-7f36-ab76-412cdc9ed579/01a183eb-8968-7863-ad65-64165119cad1.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>4598</itunes:duration>
+    </item>
+    <item>
+      <title>34. Latent Space: [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco</title>
+      <description>Practical guidance on giving coding agents enough context to work in unfamiliar repositories, reviewing their diffs, and building workspaces where background agents can reproduce failures, test patches, and open pull requests.
+Source: https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco</description>
+      <pubDate>Mon, 09 Nov 2026 14:05:53 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20261109-01a1bcf7-771f-7da1-affb-a7ead0a1434c</guid>
+      <enclosure url="https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1bcf7-771f-7c67-ba1d-94f856e787b0/01a1bcf7-78db-7028-b115-7c753e3b3b76.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>7244</itunes:duration>
     </item>
   </channel>
 </rss>
