@@ -11,7 +11,7 @@
     <itunes:author>Developer Vault</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 09 Nov 2026 14:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 22:31:22 +0000</lastBuildDate>
     <item>
       <title>1. No Priors: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI</title>
       <description>Curated episode on code agents, AutoResearch, and human roles in AI workflows.
@@ -311,6 +311,15 @@ Source: https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcas
       <guid isPermaLink="false">developer-vault-queue-20261109-01a1bcf7-771f-7da1-affb-a7ead0a1434c</guid>
       <enclosure url="https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1bcf7-771f-7c67-ba1d-94f856e787b0/01a1bcf7-78db-7028-b115-7c753e3b3b76.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>7244</itunes:duration>
+    </item>
+    <item>
+      <title>35. Latent Space: Designing for Agents — Zeno Rocha, Resend</title>
+      <description>A practical account of designing developer tools for coding agents: choosing which actions to expose, inspecting tool responses that consume too much context, and writing documentation agents can use to integrate an API.
+Source: https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/designing_for_agents_zeno_rocha_resend</description>
+      <pubDate>Thu, 12 Nov 2026 22:31:22 +0000</pubDate>
+      <guid isPermaLink="false">developer-vault-queue-20261112-01a1c6f7-44d3-7eaf-95ea-cb9de51baff2</guid>
+      <enclosure url="https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1c6f7-44d3-72a3-8e65-ffcfae742084/01a1c6f7-4605-726f-ac19-31f9b1763da0.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>5152</itunes:duration>
     </item>
   </channel>
 </rss>
